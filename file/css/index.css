@@ -61,7 +61,7 @@ header .container .links ul li a{
     color: #333;
     transition: 0.2s;
 }
-header .container .links ul li:hover a {
+header .container .links ul li a:hover{
     padding-left: 40px;
 }
 header .container .links ul li:not(:last-child){
